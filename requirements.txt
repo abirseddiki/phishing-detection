@@ -1,0 +1,13 @@
+ pandas 
+ selenium 
+ beautifulsoup4 
+ requests
+ tldextract 
+ scikit-learn 
+ pandas 
+ numpy 
+ requests-html 
+ bs4
+ sentence_transformers
+ python -m spacy download en_core_web_sm
+ lxml_html_clean
